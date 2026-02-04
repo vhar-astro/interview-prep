@@ -1,0 +1,7 @@
+{
+  "name": "Help Desk Interview Prep",
+  "description": "A conversational voice AI to practice Help Desk and NOC engineer interviews based on your resume.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
